@@ -2,16 +2,20 @@
   "images": [],
   "name": "New Connector AK",
   "connectorType": "datagrid",
-  "type": "basic",
+  "type": "api",
   "authCodeText": null,
   "userName": "ankitakore",
   "password": "12345",
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "apiKey": "ankitakore",
+  "clientKey": "",
+  "clientSecret": "",
   "userId": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": "password"
+    }
   ],
   "domoClientId": null,
   "domoClientSecret": null,
