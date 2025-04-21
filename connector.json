@@ -2,18 +2,18 @@
   "images": [],
   "name": "New Connector AK",
   "connectorType": "datagrid",
-  "type": "oauth2",
+  "type": "new",
   "authCodeText": null,
   "userName": "",
   "password": "",
-  "apiKey": "ankitakore",
+  "apiKey": "",
   "clientKey": "12345",
   "clientSecret": "12345",
   "userId": null,
   "customAccountFields": [
     {
-      "label": null,
-      "value": null,
+      "label": "Pass",
+      "value": "123456789",
       "type": "password"
     }
   ],

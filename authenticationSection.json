@@ -1,9 +1,9 @@
 {
-  "type": "oauth2",
+  "type": "new",
   "authCodeText": null,
   "userName": "",
   "password": "",
-  "apiKey": "****",
+  "apiKey": "",
   "clientKey": "****",
   "clientSecret": "****",
   "authorizationURL": "www.domo.com",
@@ -13,8 +13,8 @@
   "scope": "scope",
   "customAccountFields": [
     {
-      "label": null,
-      "value": null,
+      "label": "Pass",
+      "value": "****",
       "type": "password"
     }
   ],
