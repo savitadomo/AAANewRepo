@@ -1,16 +1,16 @@
 {
-  "type": "api",
+  "type": "oauth2",
   "authCodeText": null,
-  "userName": "****",
-  "password": "****",
+  "userName": "",
+  "password": "",
   "apiKey": "****",
-  "clientKey": "",
-  "clientSecret": "",
-  "authorizationURL": null,
-  "accessTokenURL": null,
+  "clientKey": "****",
+  "clientSecret": "****",
+  "authorizationURL": "www.domo.com",
+  "accessTokenURL": "www.domo.com",
   "oauthUserName": null,
   "oauthPassword": null,
-  "scope": null,
+  "scope": "scope",
   "customAccountFields": [
     {
       "label": null,
@@ -19,6 +19,6 @@
     }
   ],
   "additionalParameters": null,
-  "tokenAddlParams": null,
-  "accesstokenMethod": null
+  "tokenAddlParams": "name1=10",
+  "accesstokenMethod": "GET"
 }
